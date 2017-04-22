@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-header-img: "img/green.jpg"
+header-img: "img/twitter.jpg"
 ---
 
 
