@@ -6,7 +6,7 @@ header-img: "img/twitter.jpg"
 
 
 <center>
-    <p><img src="img/icon.jpg" align="center"></p>
+    <p><img src="http://oosxmodyr.bkt.clouddn.com/icon.png" align="center"></p>
 </center>
 
 <center>
