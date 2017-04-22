@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://oosxmodyr.bkt.clouddn.com/hdImg_36b828adafc3bc352cc4c7bd0739aa8914928517920.jpg" align="center"></p>
 </center>
 
 我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
